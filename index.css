@@ -1,0 +1,30 @@
+body {
+    font-size: 1.5em;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 10px auto;
+    width: 50%;
+    border: 3px solid green;
+    border-radius: 10%;
+    padding: 10px;
+    text-align: center;
+    background-color: darkseagreen;
+    box-shadow: 5px 10px #888888;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.delButton {
+    margin-left:1em;
+}
+
+.wrapper {
+    display: flex;
+    margin: 1em;
+}
